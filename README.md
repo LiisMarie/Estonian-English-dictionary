@@ -13,7 +13,7 @@ Application uses Javascript and Java. For UI layer React has been used and for A
 Clone the repository
 <br/><br/>
 ### Starting API layer
-Navigate to src/main/java/.com.likutt.dictionary and run **DictionaryApplication.java** from there.
+Navigate to src/main/java/com.likutt.dictionary and run **DictionaryApplication.java** from there.
 <br/><br/>
 ### Starting UI layer
 
