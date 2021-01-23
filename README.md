@@ -7,21 +7,14 @@ User can add, modify and delete Estonian/English words and their equivalents. On
 User can search dictionary entries, finds exact and fuzzy matches.
 
 Application uses **Javascript** and **Java**. For UI layer **React** has been used and for API layer **Spring-boot**.
-
 <br/><br/>
-
 ## Local setup guide
 
 Clone the repository
-
 <br/><br/>
-
 ### Starting API layer
-
 Navigate to src/main/java/com.likutt.dictionary and run **DictionaryApplication.java** from there.
-
 <br/><br/>
-
 ### Starting UI layer
 
 Open terminal and navigate to UI project directory.
@@ -32,6 +25,8 @@ Before running the application for first time.
 
 Running the application
 #### `npm start`
+<br/><br/>
+### Screenshots
 
 Search 'banana' (English -> Estonian) |
 ------------ |
