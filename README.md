@@ -26,7 +26,7 @@ Before running the application for first time.
 Running the application
 #### `npm start`
 <br/><br/>
-### Screenshots
+## Screenshots
 
 Search 'banana' (English -> Estonian) |
 ------------ |
