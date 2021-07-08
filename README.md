@@ -1,6 +1,6 @@
 # Estonian-English dictionary
 
-### Web-application for an Estonian-English dictionary.
+### Web application for an Estonian-English dictionary.
 
 User can add, modify and delete Estonian/English words and their equivalents. One word can have several equivalents.
 
